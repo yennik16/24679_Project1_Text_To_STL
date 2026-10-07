@@ -73,8 +73,6 @@ Evaluation results on the held-out test sets are on each model card.
 ```
 notebooks/Text_to_STL_App.ipynb       the app: loads the published models and runs the interface
 notebooks/Text_to_STL_Pipeline.ipynb  data processing, training, evaluation, the app and publishing
-data/                                 the manually created dataset and the synthetic feature requests
-docs/figures/                         pipeline diagrams
 ```
 
 # Limitations
