@@ -53,7 +53,6 @@ Evaluation results on the held-out test sets are on each model card.
   500 augmented descriptions and 500 classifier phrase variations. Also included: 682 feature requests, the example bank and test set for
   Stage 3. All synthetic data was written or generated with an AI assistant. License: CC BY 4.0.*
 
-The original spreadsheet and the feature requests are also in [`data/`](data/).
 
 # How it works
 
