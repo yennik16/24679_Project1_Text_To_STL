@@ -56,9 +56,6 @@ Evaluation results on the held-out test sets are on each model card.
 
 # How it works
 
-<img width="488" height="461" alt="Screenshot 2026-10-06 221449" src="https://github.com/user-attachments/assets/e615ef31-f3eb-404a-8d25-8b0fd07547bb" />
-
-
 1. **Preprocess and split:** fractions, number words, feet and millimetres become decimal inches, and the request is split into the part
    description and the feature description.
 2. **Classify, extract, edit:** Stage 1 picks the part type, Stage 2 extracts the dimensions, and Stage 3 reads the features.
@@ -67,6 +64,9 @@ Evaluation results on the held-out test sets are on each model card.
 4. **Review and build:** the user edits the colour-coded table; CadQuery builds the part and only a single valid, watertight solid is offered.
 
 <img width="508" height="276" alt="Screenshot 2026-10-06 221343" src="https://github.com/user-attachments/assets/beaf9620-5c9d-4349-9024-8e6f677263ad" />
+<img width="488" height="461" alt="Screenshot 2026-10-06 221449" src="https://github.com/user-attachments/assets/e615ef31-f3eb-404a-8d25-8b0fd07547bb" />
+
+
 
 
 # Repository layout
